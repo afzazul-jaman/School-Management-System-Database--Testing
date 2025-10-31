@@ -117,6 +117,7 @@ JOIN classes c ON cs.class_id=c.class_id
 JOIN subjects sub ON cs.subject_id=sub.subject_id
 ORDER BY c.class_name;
 
-![download](https://github.com/user-attachments/assets/67f5bc31-2f02-475b-a28f-307c19ed741d)
 
 
+
+![download](https://github.com/user-attachments/assets/fdf811bb-fa8d-4b4a-86ca-5b590c6a8b4c)
